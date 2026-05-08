@@ -1,0 +1,13 @@
+[2026-04-17 08:56:22] Nombre: cristian yahel zamora lopez | Edad: 17 | Categoria: Adolescente
+[2026-04-17 08:56:58] Nombre: panchito | Edad: 11 | Categoria: Niño/a
+[2026-04-17 09:01:46] Nombre: claudia garcia flores | Edad: 20 | Categoria: Joven adulto/a
+[2026-04-20 08:07:49] Nombre: cristian yahel zamora lopez | Edad: 17 | Categoria: Adolescente
+[2026-04-20 08:08:10] Nombre: gdjhe | Edad: 12 | Categoria: Niño/a
+[2026-04-20 08:10:17] Nombre: fsdhtgdh | Edad: 13 | Categoria: Adolescente
+[2026-04-20 08:12:44] Nombre: yahel | Edad: 14 | Categoria: Adolescente
+[2026-04-20 08:17:48] Nombre: yahel | Edad: 17 | Categoria: Adolescente
+[2026-04-20 08:23:34] Nombre: yahel | Edad: 11 | Categoria: Niño/a
+[2026-04-20 08:23:54] Nombre: cristian yahel zamora lopez | Edad: 17 | Categoria: Adolescente
+[2026-04-20 08:29:28] yahel | 12 | Niño/a
+[2026-04-20 08:35:15] Nombre: cristiaan yahel zamora lopez | Edad: 17 | Categoria: Adolescente
+[2026-04-20 08:38:04] Nombre: dhgf | Edad: 14 | Categoria: Adolescente
