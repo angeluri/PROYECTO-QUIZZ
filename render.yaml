@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: mi-app-kivy
+    runtime: python
+    buildCommand: |
+      apt-get update && apt-get install -y xvfb
+      pip install -r requirements.txt
+    startCommand: |
+      Xvfb :99 -screen 0 1024x768x24 &
+      export DISPLAY=:99
+      python main.py
